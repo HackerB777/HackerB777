@@ -20,3 +20,25 @@ const techStack = {
   currentlyLearning: ["Rust", "Blockchain Development"],
   funFact: "I can solve a Rubik's cube in under 30 seconds!"
 };
+def featured_projects():
+    projects = [
+        {
+            "name": "SecureChat",
+            "description": "End-to-end encrypted messaging platform",
+            "tech": ["React", "Node.js", "WebSockets", "AES-256"],
+            "stars": "⭐⭐⭐⭐⭐"
+        },
+        {
+            "name": "CodeVault",
+            "description": "Password manager with facial recognition",
+            "tech": ["Python", "OpenCV", "SQLite", "Cryptography"],
+            "stars": "⭐⭐⭐⭐"
+        },
+        {
+            "name": "HackTheBox Solutions",
+            "description": "My solutions to HackTheBox challenges",
+            "tech": ["Cybersecurity", "Penetration Testing", "Reverse Engineering"],
+            "stars": "⭐⭐⭐⭐⭐"
+        }
+    ]
+    return projects
