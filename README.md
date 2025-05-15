@@ -31,12 +31,5 @@
   <img src="https://img.shields.io/badge/Ethical%20Hacking-%E2%9A%A1-darkgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cryptography-%F0%9F%94%90-7e57c2?style=for-the-badge" />
 </p>
- <br />
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="120" alt="Floating Cybersecurity Lock" />
-  <br />
-  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%92-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-%E2%9A%A1-darkgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cryptography-%F0%9F%94%90-7e57c2?style=for-the-badge" />
-</p>
-
+ 
 
