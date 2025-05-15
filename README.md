@@ -8,7 +8,6 @@
 </p>
 
 ## 🚀 My Tech Stack
-## 🚀 My Tech Stack
 
 <p align="center">
   <!-- Languages -->
