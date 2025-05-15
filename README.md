@@ -6,6 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HackerB777&show_icons=true&theme=dark&count_private=true" alt="HackerB777's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackerB777&theme=dark" alt="HackerB777's streak" />
 </p>
+<img src="https://lottie.host/unique-link-here" width="300px" />
 
 ## 🚀 My Tech Stack
 
