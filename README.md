@@ -8,16 +8,29 @@
 </p>
 
 ## 🚀 My Tech Stack
+## 🚀 My Tech Stack
 
-```javascript
-const techStack = {
-  languages: ["JavaScript", "Python", "Java", "C++"],
-  frontend: ["React", "Vue", "HTML5", "CSS3", "Tailwind"],
-  backend: ["Node.js", "Express", "Django", "Flask"],
-  databases: ["MongoDB", "PostgreSQL", "MySQL"],
-  devOps: ["Docker", "AWS", "Git", "GitHub Actions"],
-  cybersecurity: ["Ethical Hacking", "Pen Testing", "Cryptography"],
-  currentlyLearning: ["Rust", "Blockchain Development"],
-  funFact: "I can solve a Rubik's cube in under 30 seconds!"
-};
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp&theme=dark" />
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&theme=dark" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
+
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions&theme=dark" />
+
+  <!-- Cybersecurity -->
+  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%92-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-%E2%9A%A1-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cryptography-%F0%9F%94%90-7e57c2?style=for-the-badge" />
+</p>
+
+
 
