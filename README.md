@@ -84,16 +84,46 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HackerB777&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <!-- Main stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alt="HackerB777 GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=HackerB777&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackerB777&theme=radical&hide_border=true" alt="GitHub streak" />
+  <!-- Streak stats (new domain) -->
+  <a href="https://git.io/streak-stats">
+    <img
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com?user=HackerB777&theme=radical&hide_border=true"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerB777&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <!-- Top languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerB777&layout=compact&theme=radical&hide_border=true"
+    />
+  </a>
 </p>
+
+<p align="center">
+  <!-- Activity graph (new recommended URL) -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img
+      alt="GitHub Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=HackerB777&theme=redical&hide_border=true&area=true"
+    />
+  </a>
+</p>
+
+
 
 ---
 
