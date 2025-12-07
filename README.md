@@ -127,20 +127,6 @@
 
 ---
 
-## ⚔️ Cyber / Dev Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HackerB777&theme=redical&hide_border=true" alt="Activity Graph" />
-</p>
-
-<!-- Uncomment this section after you set up the GitHub Actions workflow
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HackerB777/HackerB777/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
--->
-
----
-
 ## 🎯 Current Goals
 
 - 🔁 Build a **full automation pipeline** for payload creation and testing in a lab environment  
